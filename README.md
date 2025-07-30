@@ -10,7 +10,7 @@ The goal of this project is to analyze employee attrition and uncover key factor
 By identifying trends across departments, job roles, and demographics, we can suggest actionable insights for improving employee retention.
 
  Project Workflow
-🔹 1. Data Cleaning (Excel)
+ 1. Data Cleaning (Excel)
 Removed unnecessary columns.
 Created ~8 new columns using Excel formulas.
 Example: Added a Salary Band column to categorize salary levels (Low, Medium, High).
